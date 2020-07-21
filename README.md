@@ -1,5 +1,8 @@
 # TF2 HUD Files Resource File List
 
+#### Hudlayout Entry:
+These elements are inside a frame that is positioned in `scripts/hudlayout.res`
+
 <table>
 	<tr>
 		<th>Name</th>
@@ -13,6 +16,33 @@
 		</td>
 		<td>
 			<img src="images/resource/ui/econ/backpackpanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Insect Items And War Paints Menu</td>
+		<td>
+			<pre>resource/ui/econ/inspectionpanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/econ/inspectionpanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>New Item Found Menu</td>
+		<td>
+			<pre>resource/ui/econ/itempickuppanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/econ/itempickuppanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Trading Menu</td>
+		<td>
+			<pre>resource/ui/econ/tradingpanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/econ/tradingpanel.png" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -52,6 +82,24 @@
 		</td>
 	</tr>
 	<tr>
+		<td>Crafting Menu</td>
+		<td>
+			<pre>resource/ui/craftingpanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/craftingpanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Crafting Result Modal Box</td>
+		<td>
+			<pre>resource/ui/craftingstatusdialog.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/craftingstatusdialog.png" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Ammo</td>
 		<td>
 			<pre>resource/ui/hudammoweapons.res</pre>
@@ -75,9 +123,20 @@
 		<td>Health</td>
 		<td>
 			<pre>resource/ui/hudplayerhealth.res</pre>
+			<br>
+			Hudlayout Entry: <b>HudPlayerStatus</b>
 		</td>
 		<td>
 			<img src="images/resource/ui/hudplayerhealth.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Matchmaking Dashboard Instance Of Gamemode</td>
+		<td>
+			<pre>resource/ui/mainmenuplaylistentry.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/mainmenuplaylistentry.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -114,6 +173,15 @@
 		</td>
 		<td>
 			<img src="images/resource/ui/scoreboard.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Loadout Menu Stats</td>
+		<td>
+			<pre>resource/ui/statsummary_embedded.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/statsummary_embedded.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
