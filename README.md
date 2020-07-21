@@ -202,7 +202,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>MvM Select Gamemode Type</td>
 		<td>
-			<pre>resource/ui/matchmakingdashboardmvmmodeselect.res</pre>
+			<pre>resource/ui/<br>matchmakingdashboardmvmmodeselect.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/matchmakingdashboardmvmmodeselect.jpg" width="250">
