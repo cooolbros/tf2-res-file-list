@@ -4,7 +4,6 @@
 	<tr>
 		<th>Name</th>
 		<th>File Path</th>
-		<th>Hudlayout Entry</th>
 		<th>Image</th>
 	</td>
 	<tr>
