@@ -12,7 +12,7 @@
 			<pre>resource/ui/hudammoweapons.res</pre>
 		</td>
 		<td>
-			<img src="images/hudammoweapons.jpg" width="200">
+			<img src="images/hudammoweapons.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -21,7 +21,7 @@
 			<pre>resource/ui/hudplayerhealth.res</pre>
 		</td>
 		<td>
-			<img src="images/hudplayerhealth.jpg" width="200">
+			<img src="images/hudplayerhealth.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -30,7 +30,7 @@
 			<pre>resource/ui/teammenu.res</pre>
 		</td>
 		<td>
-			<img src="images/teammenu.jpg" width="200">
+			<img src="images/teammenu.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
