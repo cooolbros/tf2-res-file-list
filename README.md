@@ -201,7 +201,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 			<pre>resource/ui/<br>huditemeffectmeter_halloweensouls.res</pre>
 		</td>
 		<td>
-			<img src="images/resource/ui/huditemeffectmeter_halloweensouls.jpg" width="250">
+			This file is no longer in use
 		</td>
 	</tr>
 	<tr>
