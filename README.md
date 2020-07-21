@@ -144,9 +144,135 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>
+			Generic Charge Meter
+			<ul>
+				<li>Invis Watch</li>
+				<li>Jarate</li>
+				<li>The Battalion's Backup</li>
+				<li>The Buff Banner</li>
+				<li>The Cloak And Dagger</li>
+				<li>The Concheror</li>
+				<li>The Dead Ringer</li>
+				<li>The Gas Passer</li>
+				<li>The Phlogistinator</li>
+				<li>The Sandman</li>
+				<li>The Sandvich</li>
+				<li>The Wrap Assassin</li>
+			</ul>
+		</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Cleaver Charge Meter</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_cleaver.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_cleaver.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Demoman Eyelander Heads Count</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_demoman.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_demoman.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Engineer Frontier Justice Crits Count</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_engineer.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_engineer.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Halloween Souls</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_halloweensouls.res</pre>
+		</td>
+		<td>
+			<img src="" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Heavy Knockback Rage Meter</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_heavy.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_heavy.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_kartcharge.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_kartcharge.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Killstreak Count</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_killstreak.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_killstreak.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Medic Vita-Saw Organs Count</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_organs.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_organs.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Soldier Cow Mangler 5000 Meter</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_particlecannon.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_particlecannon.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Engineer Pomson 6000 Meter</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_pomson.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_pomson.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>MvM Canteens Count</td>
+		<td>
+			<pre>resource/ui/huditemeffectmeter_powerupbottle.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/huditemeffectmeter_powerupbottle.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Medic Ubercharge Info</td>
 		<td>
 			<pre>resource/ui/hudmediccharge.res</pre>
+			<br>
+			Hudlayout Entry: <b>HudMedicCharge</b>
 		</td>
 		<td>
 			<img src="images/resource/ui/hudmediccharge.jpg" width="250">
