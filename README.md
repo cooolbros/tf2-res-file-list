@@ -7,7 +7,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<th>Name</th>
 		<th>File Path</th>
-		<th style="width:50%">Image</th>
+		<th>Image</th>
 	</td>
 	<tr>
 		<td>Backpack Menu</td>
@@ -171,32 +171,32 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>Cleaver Charge Meter</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_cleaver.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_cleaver.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_cleaver.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
-		<td>Demoman Eyelander Heads Count</td>
+		<td>Eyelander Heads Count</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_demoman.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_demoman.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_demoman.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
-		<td>Engineer Frontier Justice Crits Count</td>
+		<td>Frontier Justice Crits Count</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_engineer.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_engineer.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_engineer.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
-		<td>Halloween Souls</td>
+		<td>Halloween Souls Count</td>
 		<td>
 			<pre>resource/ui/<br>huditemeffectmeter_halloweensouls.res</pre>
 		</td>
@@ -207,7 +207,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>Heavy Knockback Rage Meter</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_heavy.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_heavy.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_heavy.jpg" width="250">
@@ -234,7 +234,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>Medic Vita-Saw Organs Count</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_organs.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_organs.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_organs.jpg" width="250">
@@ -252,7 +252,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>Engineer Pomson 6000 Meter</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_pomson.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_pomson.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_pomson.jpg" width="250">
