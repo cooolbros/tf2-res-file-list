@@ -198,7 +198,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>Halloween Souls</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_halloweensouls.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_halloweensouls.res</pre>
 		</td>
 		<td>
 			<img src="" width="250">
