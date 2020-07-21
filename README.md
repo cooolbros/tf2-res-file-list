@@ -131,7 +131,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
-		<td>Matchmaking Dashboard Instance Of Gamemode</td>
+		<td>Matchmaking Dashboard<br>Instance Of Gamemode</td>
 		<td>
 			<pre>resource/ui/mainmenuplaylistentry.res</pre>
 		</td>
