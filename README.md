@@ -243,7 +243,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>Soldier Cow Mangler 5000 Meter</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_particlecannon.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_particlecannon.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_particlecannon.jpg" width="250">
@@ -261,7 +261,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>MvM Canteens Count</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_powerupbottle.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_powerupbottle.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_powerupbottle.jpg" width="250">
@@ -317,7 +317,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
-		<td>MvM Select Gamemode Type</td>
+		<td>Matchmaking Top Bar</td>
 		<td>
 			<pre>resource/ui/matchmakingdashboard.res</pre>
 		</td>
