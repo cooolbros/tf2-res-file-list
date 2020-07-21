@@ -125,6 +125,8 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		<td>Health Regenerate Label</td>
 		<td>
 			<pre>resource/ui/hudhealthaccount.res</pre>
+			<br>
+			Hudlayout Entry: <b>CHealthAccountPanel</b>
 		</td>
 		<td>
 			<img src="images/resource/ui/hudhealthaccount.jpg" width="250">
