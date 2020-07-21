@@ -39,7 +39,7 @@
 			<pre>resource/ui/scoreboard.res</pre>
 		</td>
 		<td>
-			<img src="images/scoreboard.jpg" width="200">
+			<img src="images/scoreboard.jpg" width="250">
 		</td>
 	</tr>
 </table>
