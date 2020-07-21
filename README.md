@@ -100,6 +100,17 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>Metal Status</td>
+		<td>
+			<pre>resource/ui/hudaccountpanel.res</pre>
+			<br>
+			Hudlayout Entry: <b>CHudAccountPanel</b>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudaccountpanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Ammo</td>
 		<td>
 			<pre>resource/ui/hudammoweapons.res</pre>
@@ -108,6 +119,24 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/hudammoweapons.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Health Regenerate Label</td>
+		<td>
+			<pre>resource/ui/hudhealthaccount.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudhealthaccount.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Medic Ubercharge Info</td>
+		<td>
+			<pre>resource/ui/hudmediccharge.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudmediccharge.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
