@@ -19,7 +19,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
-		<td>Insect Items And War Paints Menu</td>
+		<td>Insect Items & War Paints</td>
 		<td>
 			<pre>resource/ui/econ/inspectionpanel.res</pre>
 		</td>
@@ -55,7 +55,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
-		<td>Loadout Menus Header/Footer</td>
+		<td>Loadout Header/Footer</td>
 		<td>
 			<pre>resource/ui/charinfopanel.res</pre>
 		</td>
@@ -97,6 +97,17 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/craftingstatusdialog.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Sentry Gun Stats</td>
+		<td>
+			<pre>resource/ui/hud_obj_sentrygun.res</pre>
+			<br>
+			Hudlayout Entry: <b>BuildingStatus_Engineer</b>
+		</td>
+		<td>
+			<img src="images/resource/ui/hud_obj_sentrygun.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -177,6 +188,24 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/mapinfomenu.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>MvM Select Gamemode Type</td>
+		<td>
+			<pre>resource/ui/matchmakingdashboard.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/matchmakingdashboard.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>MvM Select Gamemode Type</td>
+		<td>
+			<pre>resource/ui/matchmakingdashboardmvmmodeselect.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/matchmakingdashboardmvmmodeselect.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
