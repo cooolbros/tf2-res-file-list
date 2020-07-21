@@ -7,7 +7,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<th>Name</th>
 		<th>File Path</th>
-		<th>Image</th>
+		<th style="width:50%">Image</th>
 	</td>
 	<tr>
 		<td>Backpack Menu</td>
@@ -216,7 +216,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td></td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_kartcharge.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_kartcharge.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_kartcharge.jpg" width="250">
@@ -225,7 +225,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>Killstreak Count</td>
 		<td>
-			<pre>resource/ui/huditemeffectmeter_killstreak.res</pre>
+			<pre>resource/ui/<br>huditemeffectmeter_killstreak.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/huditemeffectmeter_killstreak.jpg" width="250">
