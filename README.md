@@ -330,6 +330,24 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>CTF Score Panel</td>
+		<td>
+			<pre>resource/ui/hudobjectiveflagpanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudobjectiveflagpanel.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>KOTH Time Panels</td>
+		<td>
+			<pre>resource/ui/hudobjectivekothtimepanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudobjectivekothtimepanel.png" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Time Panel</td>
 		<td>
 			<pre>resource/ui/hudobjectivetimepanel.res</pre>
@@ -358,6 +376,15 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/hudtournamentsetup.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>MvM Upgrade Screen</td>
+		<td>
+			<pre>resource/ui/hudupgradepanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudupgradepanel.png" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -397,6 +424,15 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>MvM Scoreboard</td>
+		<td>
+			<pre>resource/ui/<br>mvmscoreboard.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/mvmscoreboard.png" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Payload Cart HUD</td>
 		<td>
 			<pre>resource/ui/objectivestatusescort.res</pre>
@@ -433,12 +469,39 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>MvM Boss/Tank Health Bar</td>
+		<td>
+			<pre>resource/ui/tankprogressbar.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/tankprogressbar.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Main Target ID</td>
+		<td>
+			<pre>resource/ui/targetid.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/targetid.png" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Intro Menu</td>
 		<td>
 			<pre>resource/ui/textwindow.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/textwindow.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>MvM Upgrade Item Panel</td>
+		<td>
+			<pre>resource/ui/upgradebuypanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/upgradebuypanel.png" width="250">
 		</td>
 	</tr>
 	<tr>
