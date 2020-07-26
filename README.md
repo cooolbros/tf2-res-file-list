@@ -46,6 +46,15 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>Report Abuse Menu</td>
+		<td>
+			<pre>resource/ui/abusereportsubmitdialog.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/abusereportsubmitdialog.png" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Loadout Menu</td>
 		<td>
 			<pre>resource/ui/charinfoloadoutsubpanel.res</pre>
@@ -100,6 +109,15 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>MvM Killstreak Kit Crafting</td>
+		<td>
+			<pre>resource/ui/dynamicrecipepanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/dynamicrecipepanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Sentry Gun Stats</td>
 		<td>
 			<pre>resource/ui/hud_obj_sentrygun.res</pre>
@@ -130,6 +148,28 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/hudammoweapons.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Floating Damage Numbers</td>
+		<td>
+			<pre>resource/ui/huddamageaccount.res</pre>
+			<br>
+			Hudlayout Entry: <b>CDamageAccountPanel</b>
+		</td>
+		<td>
+			<img src="images/resource/ui/huddamageaccount.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Demoman Stickies Count</td>
+		<td>
+			<pre>resource/ui/huddemomanpipes.res</pre>
+			<br>
+			Hudlayout Entry: <b>HudDemomanPipes</b>
+		</td>
+		<td>
+			<img src="images/resource/ui/huddemomanpipes.png" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -279,6 +319,17 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>Taunt Menu</td>
+		<td>
+			<pre>resource/ui/hudmenutauntselection.res</pre>
+			<br>
+			Hudlayout Entry: <b>HudMenuTauntSelection</b>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudmenutauntselection.png" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>Time Panel</td>
 		<td>
 			<pre>resource/ui/hudobjectivetimepanel.res</pre>
@@ -296,6 +347,17 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/hudplayerhealth.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Tournament Change<br>Team Ready Status<br>Floating Menu</td>
+		<td>
+			<pre>resource/ui/hudtournamentsetup.res</pre>
+			<br>
+			Hudlayout Entry: <b>HudTournamentSetup</b>
+		</td>
+		<td>
+			<img src="images/resource/ui/hudtournamentsetup.png" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -377,6 +439,33 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/textwindow.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>MvM Wave Win Panel</td>
+		<td>
+			<pre>resource/ui/wavecompletesummarypanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/wavecompletesummarypanel.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>MvM Wave Info</td>
+		<td>
+			<pre>resource/ui/wavestatuspanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/wavestatuspanel.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Round/Game Win Panel</td>
+		<td>
+			<pre>resource/ui/winpanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/winpanel.png" width="250">
 		</td>
 	</tr>
 </table>
