@@ -507,7 +507,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>MvM Wave Win Panel</td>
 		<td>
-			<pre>resource/ui/wavecompletesummarypanel.res</pre>
+			<pre>resource/ui/<br>wavecompletesummarypanel.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/wavecompletesummarypanel.png" width="250">
