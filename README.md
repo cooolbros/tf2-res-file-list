@@ -28,12 +28,30 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>Insect Cosmetics</td>
+		<td>
+			<pre>resource/ui/econ/inspectionpanel_cosmetic.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/econ/inspectionpanel_cosmetic.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>New Item Found Menu</td>
 		<td>
 			<pre>resource/ui/econ/itempickuppanel.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/econ/itempickuppanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Strange Count Transfer Menu</td>
+		<td>
+			<pre>resource/ui/econ/strangecounttransferdialog.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/econ/strangecounttransferdialog.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -52,6 +70,15 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/abusereportsubmitdialog.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Mann Co Catalogue</td>
+		<td>
+			<pre>resource/ui/charinfoarmorysubpanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/charinfoarmorysubpanel.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -109,12 +136,30 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 	</tr>
 	<tr>
+		<td>Current Disguise Panel</td>
+		<td>
+			<pre>resource/ui/disguisestatuspanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/disguisestatuspanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
 		<td>MvM Killstreak Kit Crafting</td>
 		<td>
 			<pre>resource/ui/dynamicrecipepanel.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/dynamicrecipepanel.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Death Screen</td>
+		<td>
+			<pre>resource/ui/freezepanel_basic.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/freezepanel_basic.png" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -341,7 +386,7 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 	<tr>
 		<td>KOTH Time Panels</td>
 		<td>
-			<pre>resource/ui/hudobjectivekothtimepanel.res</pre>
+			<pre>resource/ui/<br>hudobjectivekothtimepanel.res</pre>
 		</td>
 		<td>
 			<img src="images/resource/ui/hudobjectivekothtimepanel.png" width="250">
@@ -385,6 +430,15 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/hudupgradepanel.png" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Item Equip Menu</td>
+		<td>
+			<pre>resource/ui/itemselectionpanel.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/itemselectionpanel.jpg" width="250">
 		</td>
 	</tr>
 	<tr>
@@ -448,6 +502,15 @@ These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 		</td>
 		<td>
 			<img src="images/resource/ui/teammenu.jpg" width="250">
+		</td>
+	</tr>
+	<tr>
+		<td>Advanced Options Menu</td>
+		<td>
+			<pre>resource/ui/tfadvancedoptionsdialog.res</pre>
+		</td>
+		<td>
+			<img src="images/resource/ui/tfadvancedoptionsdialog.png" width="250">
 		</td>
 	</tr>
 	<tr>
