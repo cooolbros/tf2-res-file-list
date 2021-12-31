@@ -3,595 +3,81 @@
 #### Hudlayout Entry:
 These elements are inside a frame that is positioned in `scripts/hudlayout.res`
 
-<table>
-	<tr>
-		<th>Name</th>
-		<th>File Path</th>
-		<th>Image</th>
-	</td>
-	<tr>
-		<td>Backpack Menu</td>
-		<td>
-			<pre>resource/ui/econ/backpackpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/econ/backpackpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Insect Items & War Paints</td>
-		<td>
-			<pre>resource/ui/econ/inspectionpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/econ/inspectionpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Insect Cosmetics</td>
-		<td>
-			<pre>resource/ui/econ/inspectionpanel_cosmetic.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/econ/inspectionpanel_cosmetic.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>New Item Found Menu</td>
-		<td>
-			<pre>resource/ui/econ/itempickuppanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/econ/itempickuppanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Strange Count Transfer Menu</td>
-		<td>
-			<pre>resource/ui/econ/strangecounttransferdialog.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/econ/strangecounttransferdialog.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Trading Menu</td>
-		<td>
-			<pre>resource/ui/econ/tradingpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/econ/tradingpanel.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Report Abuse Menu</td>
-		<td>
-			<pre>resource/ui/abusereportsubmitdialog.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/abusereportsubmitdialog.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Mann Co Catalogue</td>
-		<td>
-			<pre>resource/ui/charinfoarmorysubpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/charinfoarmorysubpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Loadout Menu</td>
-		<td>
-			<pre>resource/ui/charinfoloadoutsubpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/charinfoloadoutsubpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Loadout Header/Footer</td>
-		<td>
-			<pre>resource/ui/charinfopanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/charinfopanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Class Loadout Menu</td>
-		<td>
-			<pre>resource/ui/classloadoutpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/classloadoutpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Class Selection</td>
-		<td>
-			<pre>resource/ui/classselection.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/classselection.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Crafting Menu</td>
-		<td>
-			<pre>resource/ui/craftingpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/craftingpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Crafting Result Modal Box</td>
-		<td>
-			<pre>resource/ui/craftingstatusdialog.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/craftingstatusdialog.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Current Disguise Panel</td>
-		<td>
-			<pre>resource/ui/disguisestatuspanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/disguisestatuspanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Killstreak Kit Crafting</td>
-		<td>
-			<pre>resource/ui/dynamicrecipepanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/dynamicrecipepanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Death Screen</td>
-		<td>
-			<pre>resource/ui/freezepanel_basic.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/freezepanel_basic.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Sentry Gun Stats</td>
-		<td>
-			<pre>resource/ui/hud_obj_sentrygun.res</pre>
-			<br>
-			Hudlayout Entry: <b>BuildingStatus_Engineer</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hud_obj_sentrygun.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Metal Status</td>
-		<td>
-			<pre>resource/ui/hudaccountpanel.res</pre>
-			<br>
-			Hudlayout Entry: <b>CHudAccountPanel</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudaccountpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Ammo</td>
-		<td>
-			<pre>resource/ui/hudammoweapons.res</pre>
-			<br>
-			Hudlayout Entry: <b>HudWeaponAmmo</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudammoweapons.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Floating Damage Numbers</td>
-		<td>
-			<pre>resource/ui/huddamageaccount.res</pre>
-			<br>
-			Hudlayout Entry: <b>CDamageAccountPanel</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/huddamageaccount.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Demoman Stickies Count</td>
-		<td>
-			<pre>resource/ui/huddemomanpipes.res</pre>
-			<br>
-			Hudlayout Entry: <b>HudDemomanPipes</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/huddemomanpipes.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Health Regenerate Label</td>
-		<td>
-			<pre>resource/ui/hudhealthaccount.res</pre>
-			<br>
-			Hudlayout Entry: <b>CHealthAccountPanel</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudhealthaccount.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Generic Charge Meter
-			<ul>
-				<li>Invis Watch</li>
-				<li>Jarate</li>
-				<li>The Battalion's Backup</li>
-				<li>The Buff Banner</li>
-				<li>The Cloak And Dagger</li>
-				<li>The Concheror</li>
-				<li>The Dead Ringer</li>
-				<li>The Gas Passer</li>
-				<li>The Phlogistinator</li>
-				<li>The Sandman</li>
-				<li>The Sandvich</li>
-				<li>The Wrap Assassin</li>
-			</ul>
-		</td>
-		<td>
-			<pre>resource/ui/huditemeffectmeter.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Cleaver Charge Meter</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_cleaver.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_cleaver.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Eyelander Heads Count</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_demoman.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_demoman.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Frontier Justice Crits Count</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_engineer.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_engineer.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Halloween Souls Count</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_halloweensouls.res</pre>
-		</td>
-		<td>
-			This file is no longer in use
-		</td>
-	</tr>
-	<tr>
-		<td>Heavy Knockback Rage Meter</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_heavy.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_heavy.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td></td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_kartcharge.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_kartcharge.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Killstreak Count</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_killstreak.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_killstreak.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Medic Vita-Saw Organs Count</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_organs.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_organs.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Soldier Cow Mangler 5000 Meter</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_particlecannon.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_particlecannon.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Engineer Pomson 6000 Meter</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_pomson.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_pomson.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Canteens Count</td>
-		<td>
-			<pre>resource/ui/<br>huditemeffectmeter_powerupbottle.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/huditemeffectmeter_powerupbottle.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Medic Ubercharge Info</td>
-		<td>
-			<pre>resource/ui/hudmediccharge.res</pre>
-			<br>
-			Hudlayout Entry: <b>HudMedicCharge</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudmediccharge.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Taunt Menu</td>
-		<td>
-			<pre>resource/ui/hudmenutauntselection.res</pre>
-			<br>
-			Hudlayout Entry: <b>HudMenuTauntSelection</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudmenutauntselection.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>CTF Score Panel</td>
-		<td>
-			<pre>resource/ui/hudobjectiveflagpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudobjectiveflagpanel.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>KOTH Time Panels</td>
-		<td>
-			<pre>resource/ui/<br>hudobjectivekothtimepanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudobjectivekothtimepanel.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Time Panel</td>
-		<td>
-			<pre>resource/ui/hudobjectivetimepanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudobjectivetimepanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Health</td>
-		<td>
-			<pre>resource/ui/hudplayerhealth.res</pre>
-			<br>
-			Hudlayout Entry: <b>HudPlayerStatus</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudplayerhealth.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Tournament Change<br>Team Ready Status<br>Floating Menu</td>
-		<td>
-			<pre>resource/ui/hudtournamentsetup.res</pre>
-			<br>
-			Hudlayout Entry: <b>HudTournamentSetup</b>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudtournamentsetup.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Upgrade Screen</td>
-		<td>
-			<pre>resource/ui/hudupgradepanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/hudupgradepanel.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Item Equip Menu</td>
-		<td>
-			<pre>resource/ui/itemselectionpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/itemselectionpanel.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Matchmaking Dashboard<br>Instance Of Gamemode</td>
-		<td>
-			<pre>resource/ui/mainmenuplaylistentry.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/mainmenuplaylistentry.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Map Info Menu</td>
-		<td>
-			<pre>resource/ui/mapinfomenu.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/mapinfomenu.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Matchmaking Top Bar</td>
-		<td>
-			<pre>resource/ui/matchmakingdashboard.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/matchmakingdashboard.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Select Gamemode Type</td>
-		<td>
-			<pre>resource/ui/<br>matchmakingdashboardmvmmodeselect.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/matchmakingdashboardmvmmodeselect.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Scoreboard</td>
-		<td>
-			<pre>resource/ui/<br>mvmscoreboard.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/mvmscoreboard.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Payload Cart HUD</td>
-		<td>
-			<pre>resource/ui/objectivestatusescort.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/objectivestatusescort.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Select Team Menu</td>
-		<td>
-			<pre>resource/ui/teammenu.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/teammenu.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Advanced Options Menu</td>
-		<td>
-			<pre>resource/ui/tfadvancedoptionsdialog.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/tfadvancedoptionsdialog.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Scoreboard</td>
-		<td>
-			<pre>resource/ui/scoreboard.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/scoreboard.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Loadout Menu Stats</td>
-		<td>
-			<pre>resource/ui/statsummary_embedded.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/statsummary_embedded.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Boss/Tank Health Bar</td>
-		<td>
-			<pre>resource/ui/tankprogressbar.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/tankprogressbar.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Main Target ID</td>
-		<td>
-			<pre>resource/ui/targetid.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/targetid.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Intro Menu</td>
-		<td>
-			<pre>resource/ui/textwindow.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/textwindow.jpg" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Upgrade Item Panel</td>
-		<td>
-			<pre>resource/ui/upgradebuypanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/upgradebuypanel.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Wave Win Panel</td>
-		<td>
-			<pre>resource/ui/<br>wavecompletesummarypanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/wavecompletesummarypanel.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>MvM Wave Info</td>
-		<td>
-			<pre>resource/ui/wavestatuspanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/wavestatuspanel.png" width="250">
-		</td>
-	</tr>
-	<tr>
-		<td>Round/Game Win Panel</td>
-		<td>
-			<pre>resource/ui/winpanel.res</pre>
-		</td>
-		<td>
-			<img src="images/resource/ui/winpanel.png" width="250">
-		</td>
-	</tr>
-</table>
+| Name                                                           | File Path                                                            | Image                                                         |
+|----------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------|
+| Backpack Menu                                                  | resource/ui/econ/backpackpanel.res                                   | ![](images/resource/ui/econ/backpackpanel.jpg)                |
+| Insect Items & War Paints                                      | resource/ui/econ/inspectionpanel.res                                 | ![](images/resource/ui/econ/inspectionpanel.jpg)              |
+| Insect Cosmetics                                               | resource/ui/econ/inspectionpanel_cosmetic.res                        | ![](images/resource/ui/econ/inspectionpanel_cosmetic.jpg)     |
+| New Item Found Menu                                            | resource/ui/econ/itempickuppanel.res                                 | ![](images/resource/ui/econ/itempickuppanel.jpg)              |
+| Strange Count Transfer Menu                                    | resource/ui/econ/strangecounttransferdialog.res                      | ![](images/resource/ui/econ/strangecounttransferdialog.jpg)   |
+| Trading Menu                                                   | resource/ui/econ/tradingpanel.res                                    | ![](images/resource/ui/econ/tradingpanel.png)                 |
+| Report Abuse Menu                                              | resource/ui/abusereportsubmitdialog.res                              | ![](images/resource/ui/abusereportsubmitdialog.png)           |
+| Mann Co Catalogue                                              | resource/ui/charinfoarmorysubpanel.res                               | ![](images/resource/ui/charinfoarmorysubpanel.jpg)            |
+| Loadout Menu                                                   | resource/ui/charinfoloadoutsubpanel.res                              | ![](images/resource/ui/charinfoloadoutsubpanel.jpg)           |
+| Loadout Header/Footer                                          | resource/ui/charinfopanel.res                                        | ![](images/resource/ui/charinfopanel.jpg)                     |
+| Class Loadout Menu                                             | resource/ui/classloadoutpanel.res                                    | ![](images/resource/ui/classloadoutpanel.jpg)                 |
+| Class Selection                                                | resource/ui/classselection.res                                       | ![](images/resource/ui/classselection.jpg)                    |
+| Crafting Menu                                                  | resource/ui/craftingpanel.res                                        | ![](images/resource/ui/craftingpanel.jpg)                     |
+| Crafting Result Modal Box                                      | resource/ui/craftingstatusdialog.res                                 | ![](images/resource/ui/craftingstatusdialog.png)              |
+| Current Disguise Panel                                         | resource/ui/disguisestatuspanel.res                                  | ![](images/resource/ui/disguisestatuspanel.jpg)               |
+| MvM Killstreak Kit Crafting                                    | resource/ui/dynamicrecipepanel.res                                   | ![](images/resource/ui/dynamicrecipepanel.jpg)                |
+| Death Screen                                                   | resource/ui/freezepanel_basic.res                                    | ![](images/resource/ui/freezepanel_basic.png)                 |
+| Sentry Gun Stats                                               | resource/ui/hud_obj_sentrygun.res<br>**[BuildingStatus_Engineer]**   | ![](images/resource/ui/hud_obj_sentrygun.jpg)                 |
+| Metal Status                                                   | resource/ui/hudaccountpanel.res<br>**[CHudAccountPanel]**            | ![](images/resource/ui/hudaccountpanel.jpg)                   |
+| Ammo                                                           | resource/ui/hudammoweapons.res<br>**[HudWeaponAmmo]**                | ![](images/resource/ui/hudammoweapons.jpg)                    |
+| Floating Damage Numbers                                        | resource/ui/huddamageaccount.res<br>**[CDamageAccountPanel]**        | ![](images/resource/ui/huddamageaccount.png)                  |
+| Demoman Stickies Count                                         | resource/ui/huddemomanpipes.res<br>**[HudDemomanPipes]**             | ![](images/resource/ui/huddemomanpipes.png)                   |
+| Health Regenerate Label                                        | resource/ui/hudhealthaccount.res<br>**[CHealthAccountPanel]**        | ![](images/resource/ui/hudhealthaccount.jpg)                  |
+| Generic Charge Meter [Weapons](#hud-item-effect-meter-weapons) | resource/ui/huditemeffectmeter.res                                   | ![](images/resource/ui/huditemeffectmeter.jpg)                |
+| Cleaver Charge Meter                                           | resource/ui/huditemeffectmeter_cleaver.res                           | ![](images/resource/ui/huditemeffectmeter_cleaver.jpg)        |
+| Eyelander Heads Count                                          | resource/ui/huditemeffectmeter_demoman.res                           | ![](images/resource/ui/huditemeffectmeter_demoman.jpg)        |
+| Frontier Justice Crits Count                                   | resource/ui/huditemeffectmeter_engineer.res                          | ![](images/resource/ui/huditemeffectmeter_engineer.jpg)       |
+| Halloween Souls Count                                          | resource/ui/huditemeffectmeter_halloweensouls.res                    | This file is no longer in use                                 |
+| Heavy Knockback Rage Meter                                     | resource/ui/huditemeffectmeter_heavy.res                             | ![](images/resource/ui/huditemeffectmeter_heavy.jpg)          |
+|                                                                | resource/ui/huditemeffectmeter_kartcharge.res                        | ![](images/resource/ui/huditemeffectmeter_kartcharge.jpg)     |
+| Killstreak Count                                               | resource/ui/huditemeffectmeter_killstreak.res                        | ![](images/resource/ui/huditemeffectmeter_killstreak.jpg)     |
+| Medic Vita-Saw Organs Count                                    | resource/ui/huditemeffectmeter_organs.res                            | ![](images/resource/ui/huditemeffectmeter_organs.jpg)         |
+| Soldier Cow Mangler 5000 Meter                                 | resource/ui/huditemeffectmeter_particlecannon.res                    | ![](images/resource/ui/huditemeffectmeter_particlecannon.jpg) |
+| Engineer Pomson 6000 Meter                                     | resource/ui/huditemeffectmeter_pomson.res                            | ![](images/resource/ui/huditemeffectmeter_pomson.jpg)         |
+| MvM Canteens Count                                             | resource/ui/huditemeffectmeter_powerupbottle.res                     | ![](images/resource/ui/huditemeffectmeter_powerupbottle.jpg)  |
+| Medic Ubercharge Info                                          | resource/ui/hudmediccharge.res<br>**[HudMedicCharge]**               | ![](images/resource/ui/hudmediccharge.jpg)                    |
+| Taunt Menu                                                     | resource/ui/hudmenutauntselection.res<br>**[HudMenuTauntSelection]** | ![](images/resource/ui/hudmenutauntselection.png)             |
+| CTF Score Panel                                                | resource/ui/hudobjectiveflagpanel.res                                | ![](images/resource/ui/hudobjectiveflagpanel.png)             |
+| KOTH Time Panels                                               | resource/ui/hudobjectivekothtimepanel.res                            | ![](images/resource/ui/hudobjectivekothtimepanel.png)         |
+| Time Panel                                                     | resource/ui/hudobjectivetimepanel.res                                | ![](images/resource/ui/hudobjectivetimepanel.jpg)             |
+| Health                                                         | resource/ui/hudplayerhealth.res<br>**[HudPlayerStatus]**             | ![](images/resource/ui/hudplayerhealth.jpg)                   |
+| Tournament ChangeTeam Ready StatusFloating Menu                | resource/ui/hudtournamentsetup.res<br>**[HudTournamentSetup]**       | ![](images/resource/ui/hudtournamentsetup.png)                |
+| MvM Upgrade Screen                                             | resource/ui/hudupgradepanel.res                                      | ![](images/resource/ui/hudupgradepanel.png)                   |
+| Item Equip Menu                                                | resource/ui/itemselectionpanel.res                                   | ![](images/resource/ui/itemselectionpanel.jpg)                |
+| Matchmaking DashboardInstance Of Gamemode                      | resource/ui/mainmenuplaylistentry.res                                | ![](images/resource/ui/mainmenuplaylistentry.jpg)             |
+| Map Info Menu                                                  | resource/ui/mapinfomenu.res                                          | ![](images/resource/ui/mapinfomenu.jpg)                       |
+| Matchmaking Top Bar                                            | resource/ui/matchmakingdashboard.res                                 | ![](images/resource/ui/matchmakingdashboard.jpg)              |
+| MvM Select Gamemode Type                                       | resource/ui/matchmakingdashboardmvmmodeselect.res                    | ![](images/resource/ui/matchmakingdashboardmvmmodeselect.jpg) |
+| MvM Scoreboard                                                 | resource/ui/mvmscoreboard.res                                        | ![](images/resource/ui/mvmscoreboard.png)                     |
+| Payload Cart HUD                                               | resource/ui/objectivestatusescort.res                                | ![](images/resource/ui/objectivestatusescort.jpg)             |
+| Select Team Menu                                               | resource/ui/teammenu.res                                             | ![](images/resource/ui/teammenu.jpg)                          |
+| Advanced Options Menu                                          | resource/ui/tfadvancedoptionsdialog.res                              | ![](images/resource/ui/tfadvancedoptionsdialog.png)           |
+| Scoreboard                                                     | resource/ui/scoreboard.res                                           | ![](images/resource/ui/scoreboard.jpg)                        |
+| Loadout Menu Stats                                             | resource/ui/statsummary_embedded.res                                 | ![](images/resource/ui/statsummary_embedded.jpg)              |
+| MvM Boss/Tank Health Bar                                       | resource/ui/tankprogressbar.res                                      | ![](images/resource/ui/tankprogressbar.png)                   |
+| Main Target ID                                                 | resource/ui/targetid.res                                             | ![](images/resource/ui/targetid.png)                          |
+| Intro Menu                                                     | resource/ui/textwindow.res                                           | ![](images/resource/ui/textwindow.jpg)                        |
+| MvM Upgrade Item Panel                                         | resource/ui/upgradebuypanel.res                                      | ![](images/resource/ui/upgradebuypanel.png)                   |
+| MvM Wave Win Panel                                             | resource/ui/wavecompletesummarypanel.res                             | ![](images/resource/ui/wavecompletesummarypanel.png)          |
+| MvM Wave Info                                                  | resource/ui/wavestatuspanel.res                                      | ![](images/resource/ui/wavestatuspanel.png)                   |
+| Round/Game Win Panel                                           | resource/ui/winpanel.res                                             | ![](images/resource/ui/winpanel.png)                          |
+
+### HUD Item Effect Meter Weapons
+
+ - Invis Watch
+ - Jarate
+ - The Battalion's Backup
+ - The Buff Banner
+ - The Cloak And Dagger
+ - The Concheror
+ - The Dead Ringer
+ - The Gas Passer
+ - The Phlogistinator
+ - The Sandman
+ - The Sandvich
+ - The Wrap Assassin
